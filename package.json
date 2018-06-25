@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/growlybear/react-todo-next-ssr/issues"
   },
-  "homepage": "https://github.com/growlybear/react-todo-next-ssr#readme"
+  "homepage": "https://github.com/growlybear/react-todo-next-ssr#readme",
+  "dependencies": {
+    "aws-appsync": "^1.1.2",
+    "graphql-tag": "^2.9.2",
+    "next": "^6.0.3",
+    "next-apollo-appsync": "0.0.7",
+    "react": "^16.4.1",
+    "react-apollo": "^2.1.6",
+    "react-dom": "^16.4.1",
+    "uuid": "^3.2.1"
+  }
 }
