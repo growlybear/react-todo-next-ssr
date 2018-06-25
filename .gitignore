@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# AppSync config file - not sure how to handle this yet, but don't want it exposed
+AppSync.js
