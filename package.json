@@ -1,0 +1,19 @@
+{
+  "name": "react-todo-next-ssr",
+  "version": "1.0.0",
+  "description": "SSR GraphQL with Next.js and AWS AppSync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/growlybear/react-todo-next-ssr.git"
+  },
+  "author": "Michael Allan <growlymike@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/growlybear/react-todo-next-ssr/issues"
+  },
+  "homepage": "https://github.com/growlybear/react-todo-next-ssr#readme"
+}
